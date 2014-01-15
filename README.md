@@ -4,4 +4,6 @@
 
 原文：https://multibit.org/faq.html
 
+##ライセンス
 
+[MITライセンス](http://sourceforge.jp/projects/opensource/wiki/licenses%2FMIT_license)
